@@ -18,12 +18,6 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=sbehdani)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=behdanisohrab&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=behdanisohrab&icon=0&color=0)](https://visitcount.itsvg.in)
 
