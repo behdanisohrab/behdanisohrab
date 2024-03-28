@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Parch Gnu/Linux<br>🌱 I’m currently learning @rustlang & @python<br>💬 Ask me about Linux<br>⚡ Fun fact im a nerd 
+🔭 I’m currently working on [Parch Gnu/Linux](https://parchlinux.com)<br>🌱 I’m currently learning @rustlang & @python<br>💬 Ask me about Linux<br>⚡ Fun fact im a nerd 
 
 
 ## 🌐 Socials:
@@ -10,14 +10,8 @@
 
 # Github Stats
 
-[![Sohrab`s github stats](https://github-readme-stats.vercel.app/api?username=behdanisohrab)]
+[Sohrab`s github stats](https://github-readme-stats.vercel.app/api?username=behdanisohrab)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behdanisohrab)]
-
-# Visitors
-
-[![](https://visitcount.itsvg.in/api?id=behdanisohrab&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=behdanisohrab)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
