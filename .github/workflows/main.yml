@@ -13,12 +13,4 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://sohrabbehdani.ir/blogfa/atom.xml"
-    update-readme-with-mastodon: 
-        name: Update this repo's README with latest blog posts
-        runs-on: ubuntu-latest
-        steps: 
-            - uses: actions/checkout@v2
-            - uses: gautamkrishnar/blog-post-workflow@master
-              with: 
-                max_post_count: "4"
-                feed_list: "https://mas.to/@sohrabbehdani.rss"
+
