@@ -13,10 +13,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [کمی درمورد پارچ](https://sohrabbehdani.ir/blogfa/parchlinux-way/)
 - [تجربه استفاده از لینوکس موبایل](https://sohrabbehdani.ir/blogfa/mobilelinux/)
 - [پارچ در سال ۱۴۰۳](https://sohrabbehdani.ir/blogfa/parchlinux-1403/)
 - [و بازهم نوت هشت پرو ترکید.....](https://sohrabbehdani.ir/blogfa/mtkbrick/)
-- [در جستجوی دوری....](https://sohrabbehdani.ir/blogfa/finding-dory/)
 <!-- BLOG-POST-LIST:END -->
 
 
