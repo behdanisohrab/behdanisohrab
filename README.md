@@ -13,10 +13,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [رفتارهای اشتباه با توسعه‌دهنده های اوپن سورس](https://sohrabbehdani.ir/blogfa/foss-dev/)
 - [آموزش نصب و راه اندازی برنامه oblivion روی لینوکس](https://sohrabbehdani.ir/blogfa/oblivion/)
 - [کمی درمورد پارچ](https://sohrabbehdani.ir/blogfa/parchlinux-way/)
 - [تجربه استفاده از لینوکس موبایل](https://sohrabbehdani.ir/blogfa/mobilelinux/)
-- [پارچ در سال ۱۴۰۳](https://sohrabbehdani.ir/blogfa/parchlinux-1403/)
 <!-- BLOG-POST-LIST:END -->
 
 
