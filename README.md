@@ -13,10 +13,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [زبان اسکریپت‌نویسی amber](https://sohrabbehdani.ir/blogfa/amber/)
 - [رفتارهای اشتباه با توسعه‌دهنده های اوپن سورس](https://sohrabbehdani.ir/blogfa/foss-dev/)
 - [آموزش نصب و راه اندازی برنامه oblivion روی لینوکس](https://sohrabbehdani.ir/blogfa/oblivion/)
 - [کمی درمورد پارچ](https://sohrabbehdani.ir/blogfa/parchlinux-way/)
-- [تجربه استفاده از لینوکس موبایل](https://sohrabbehdani.ir/blogfa/mobilelinux/)
 <!-- BLOG-POST-LIST:END -->
 
 
