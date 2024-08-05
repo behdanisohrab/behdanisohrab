@@ -13,10 +13,10 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [رزبری‌پای و پارچ آرم](https://sohrabbehdani.ir/blogfa/parch-arm/)
 - [برتری‌های توزیع‌های غلتان&lpar;رولینگ‌رلیز&rpar; نسبت به پوینت‌رلیز و باورهای غلط درباره توزیع‌های غلتان](https://sohrabbehdani.ir/blogfa/rolling-release/)
 - [زبان اسکریپت‌نویسی amber](https://sohrabbehdani.ir/blogfa/amber/)
 - [رفتارهای اشتباه با توسعه‌دهنده های اوپن سورس](https://sohrabbehdani.ir/blogfa/foss-dev/)
-- [آموزش نصب و راه اندازی برنامه oblivion روی لینوکس](https://sohrabbehdani.ir/blogfa/oblivion/)
 <!-- BLOG-POST-LIST:END -->
 
 
